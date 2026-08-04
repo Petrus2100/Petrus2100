@@ -1,7 +1,7 @@
 <h1 align="center">👋 Greetings, Welcome to my GitHub Portfolio!</h1>
 
 <p align="left">
-  <b>Hi there, my name is Arthur. I'm 22 years old and I've been passionate about technology since I was 15.</b><br>
+  <b>Hi there, my name is Arthur. I've been passionate about technology since I was 15.</b><br>
   It all started with YouTube videos about how computer apps, websites, and games were developed.<br>
   💻 Currently studying <strong>Java</strong> and <strong>Spring Ecosystem</strong>.
 </p>
