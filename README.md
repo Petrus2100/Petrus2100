@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-marques-256a9a27a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="arthursilvestre214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://petrus2100.github.io/Reposit-rio/" target="_blank"><img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=20232a" alt="Portfolio"/></a>
 </p>
 
