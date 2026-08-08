@@ -30,7 +30,7 @@
 
 ## ⚙️ Stuff I've built
 
-<p><a href="https://petrus2100.github.io/Todos-livres-da-dengue/">SITE INFORMATIVO DE COMBATE A DENGUE</a>a</p>
+<p><a href="https://petrus2100.github.io/Todos-livres-da-dengue/">SITE INFORMATIVO DE COMBATE A DENGUE</a></p>
 
 ## 🚀 Technologies I'm learning
 
