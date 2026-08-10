@@ -37,7 +37,7 @@
 ## ⚙️ Stuff I've built
 
 <p><a href="https://petrus2100.github.io/Todos-livres-da-dengue/">SITE INFORMATIVO DE COMBATE A DENGUE</a></p>
-<p href="https://pluble-production.up.railway.app/">PLUBLE plataforma de registro de nomes de pagamento únicos</p>
+<p><a href="https://pluble-production.up.railway.app/">PLUBLE plataforma de registro de nomes de pagamento únicos</a></p>
 
 ## 🚀 Technologies I'm learning
 
