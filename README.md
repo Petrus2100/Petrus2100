@@ -20,6 +20,7 @@
   </a>
   
   <a href="https://x.com/RuhtraSilvsm8/with_replies"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitterx--v2.png" alt="twitterx--v2"/></a>
+  <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/></a>
 </p>
 
 ## 🎓 Education
