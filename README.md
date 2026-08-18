@@ -18,6 +18,8 @@
   <a href="https://petrus2100.github.io/Reposit-rio/" target="_blank">
     <img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=20232a" alt="Portfolio" />
   </a>
+
+  <a href="https://x.com/RuhtraSilvsm8/with_replies"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
 </p>
 
 ## 🎓 Education
