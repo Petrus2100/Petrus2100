@@ -15,7 +15,7 @@
   <a href="mailto:arthursilvestre214@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://petrus2100.github.io/Reposit-rio/" target="_blank">
+  <a href="https://petrus2100.github.io/Portifolio-arthur/" target="_blank">
     <img src="https://img.shields.io/badge/Check%20out%20my%20Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=20232a" alt="Portfolio" />
   </a>
 </p>
